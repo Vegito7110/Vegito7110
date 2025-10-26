@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **LLM's, LangChain and GEN-AI** to expand my skillset.
 - 👯 I’m looking to collaborate on open-source projects, especially those involving **MERN stack, APP Development and AI/ML**.
 - 📫 Reach me at: **agupta11_be23@thapar.edu**
-- ⚡ Fun fact: **[A Fun Fact About You or Your Interests]**
 
 ---
 
